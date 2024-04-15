@@ -1,3 +1,11 @@
+"""
+Name: Nicholas Lalonde
+Date: April 15th, 2024
+Description: Python script to clean out user's Download folder and
+             sort files based on their extension.
+"""
+
+
 import os
 import collections
 from pprint import pprint 
